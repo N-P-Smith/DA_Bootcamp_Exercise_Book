@@ -1,0 +1,56 @@
+# da-module-python
+
+_bla bla
+Data Analytics / Introduction to Python
+
+- day 1: 
+    - Terminal
+    - installations
+    - git in the terminal
+    - for themselves for the rest of the day:
+      - Jupyter notebook
+- day 2:
+    - before lunch:
+        - discuss exercises from day before
+        - Lecture - Numerics and Operators
+        - Exercise - Numerics and Operators
+    - after lunch:
+        - Lecture - variables
+        - Exercise - variables
+    - for themselves for the rest of the day:
+        - strings + exercises
+- day 3:
+    - before lunch:
+        - discuss exercises from day before
+        - self-guided lecture - conditions
+        - exercises - conditions
+    - after lunch:
+        - Lecture - lists
+    - for themselves for the rest of the day:
+        - list exercises
+- day 4:
+    - before lunch:
+        - discuss exercises from day before
+        - Lecture - Dictionaries
+        - Exercises - Dictionaries
+    - after lunch:
+        - discuss exercises
+        - Lecture - For Loops
+    - for the rest of the day by themselves:
+        - Exercises - For Loops
+- day 5:
+    - before lunch:
+        - discuss exercises from day before
+        - Lecture -  while loops
+        - Exercises -  while loops
+     - after lunch:
+        - discuss exercises
+        - Lecture - Functions
+     - for the rest of the day by themselves:
+        - Exercise - Functions   
+- day 6: 
+    - discuss exercises
+    - short intro to pseudo coding
+    - start disney challenge
+- day 7 (first half):
+    - do presentations of disney
